@@ -1,0 +1,51 @@
+html{
+    background-color: white;
+}
+#im{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 8%;
+    width: 30%;
+}
+#sch{
+    width: 100%;
+}
+#sch1{
+    width: 100%;
+}
+#l{
+    margin-left: 50%;
+}
+#l1{
+    margin-left: 45%;
+}
+#os{
+    width: 100%;
+}
+#os1{
+    width: 100%;
+    margin-top: 100px;
+}
+#l2{
+    margin-left: 50%;
+    margin-top: 50px;
+}
+#l3{
+    margin-left: 45%;
+    margin-top: 50px;
+}
+#l4{
+    margin-left:45% ;
+    margin-top: 50px;
+}
+#bl{
+    width: 100%;
+}
+#l5{
+    margin-left: 45%;
+    margin-top: 50px;
+}
+#c{
+    width: 100%;
+}
